@@ -11,4 +11,4 @@ def write_string_to_file(input_string, file_name):
         print(f"Error: {e}")
 
 
-write_string_to_file(text, "output.txt")
+write_string_to_file(text, "../app/output.txt")
